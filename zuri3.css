@@ -1,0 +1,416 @@
+body{
+    font-family:'Lexend', sans-serif; ;
+}
+
+nav{
+    background-color: #FFFFFF;
+    position:sticky;
+    margin-bottom: 9rem;
+}
+
+.logo2{
+    margin:1rem 0 0 6rem
+}
+
+ul{
+    list-style-type: none;
+    float: right;
+}
+
+li{
+    display:inline;
+    margin-right: 3.5rem;
+    color:#545557;
+    font-size: 18px;
+}
+
+.ht{
+    margin-right:7rem;
+    border:1px solid #ff0000;
+    background-color: #ff0000;
+    padding: 0.7rem 2.7rem;
+    border-bottom-right-radius: 0.8rem;
+}
+
+.a{
+    text-decoration: none;
+    color: #545557;
+}
+
+.b{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+
+.vet{
+    font-size:48px;
+    margin:17rem 0 0 6rem;
+}
+
+.strong{
+    color:#ff0000;
+}
+
+.thick2{
+    object-fit: contain;
+    width: 7.9%;
+    margin: -40rem 0 0 39rem;
+}
+
+.at{
+    font-size:22px;
+    margin:0 0 0 6rem;
+    color:#787878;
+
+}
+
+.line1{
+    object-fit: contain;
+    width:12%;
+    margin:-30rem 0 0 73.5rem;
+}
+
+.img1{
+    object-fit:contain;
+    width:29%;
+    margin: -21rem 0 0 51.5rem;
+    /* z-index: 1; */
+}
+
+.b-b{
+margin: 2rem 0 0 6rem;
+}
+
+.b-bn{
+background-color: #ff0000;
+color:#FFFFFF;
+border:1px solid #ff0000;
+padding:0.7rem 3rem;
+border-bottom-right-radius: 1rem;
+font-size: 17px;
+}
+
+.b-bn2{
+    background-color:#545557;
+    color:#FFFFFF;
+    border:1px solid #545557;
+    padding:0.7rem 3rem;
+    margin-left: 2rem;
+    border-bottom-right-radius: 1rem;
+    font-size: 17px;
+
+}
+
+.we-h{
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2lq0R4tFV0lc8SExsNCX3y0ESApyUx3_TNg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 60rem; */
+    background-color: #FDF3F2;
+    padding:7rem 5rem 9rem;
+    /* touch-action: pan-y; */
+}
+
+b, .tho, .tlts{
+    color: #ff0000;
+}
+.impact{
+font-size:50px;
+}
+
+.train{
+margin-top:-1.5rem;
+font-size: 25px;
+font-weight: bold;
+/* color:#888787 */
+}
+
+.talent{
+margin-top:-1rem;
+font-size:25px;
+color:#888787;
+}
+
+.ENG, .IND, .NIG, .USSA{
+    margin-left:1rem;
+    background-color: #FDF3F2;
+}
+
+.GER{
+    margin-left: -0.5rem;
+}
+
+.teamsec{
+    object-fit: contain;
+    width:36%;
+    margin: -24rem 0 0 45rem;
+}
+
+.skill{
+    font-size:50px;
+    margin:5rem 0 0 7rem;
+}
+
+.UI{
+border:1px solid #FFFFFF;
+border-radius:0.5rem;
+display: inline-block;
+color:#878787;
+padding:1rem 2rem;
+outline:1px solid #dbd4d4 ;
+/* touch-action: pan-up; */
+margin-left:6rem;
+}
+
+.BD{
+    border:1px solid #FFFFFF;
+    border-radius:0.5rem;
+    display: inline-block;
+    color:#878787;
+    padding:1rem 2rem;
+outline:1px solid #dbd4d4 ;
+margin-left: 2rem;
+
+    /* touch-action: auto; */
+}
+
+.DE{
+    border:1px solid #FFFFFF;
+    border-radius:0.5rem;
+    display: inline-block;
+    color:#878787;
+    padding:1rem 2rem;
+outline:1px solid #dbd4d4 ;
+margin-left: 2rem;
+
+}
+
+.FD{
+    border:1px solid #FFFFFF;
+    border-radius:0.5rem;
+    display: inline-block;
+    color:#878787;
+    padding:1rem 2rem;
+outline:1px solid #dbd4d4 ;
+margin-left: 2rem;
+}
+
+.line2{
+/* object-fit: contain; */
+width: 21%;
+margin: -8rem 0rem 10rem 66.3rem;
+}
+
+.work{
+    font-size:50px;
+    margin:-7rem 0 0 7rem;
+}
+
+.GH{
+    border:1px solid #FFFFFF;
+border-radius:0.5rem;
+display: inline-block;
+color:#878787;
+padding:1rem 2rem;
+outline:1px solid #dbd4d4 ;
+margin-left:6rem;
+}
+
+.MS{
+    border:1px solid #FFFFFF;
+    border-radius:0.5rem;
+    display: inline-block;
+    color:#878787;
+    padding:1rem 2rem;
+outline:1px solid #dbd4d4 ;
+margin-left: 2rem;
+}
+.RA{
+    border:1px solid #FFFFFF;
+    border-radius:0.5rem;
+    display: inline-block;
+    color:#878787;
+    padding:1rem 2rem;
+outline:1px solid #dbd4d4 ;
+margin-left: 2rem;
+}
+.FW {
+    border:1px solid #FFFFFF;
+    border-radius:0.5rem;
+    display: inline-block;
+    color:#878787;
+    padding:1rem 2rem;
+outline:1px solid #dbd4d4 ;
+margin-left: 2rem;
+}
+.GG {
+    border:1px solid #FFFFFF;
+    border-radius:0.5rem;
+    display: inline-block;
+    color:#878787;
+    padding:1rem 2rem;
+outline:1px solid #dbd4d4 ;
+margin-left: 2rem;
+}
+.CT{
+    border:1px solid #FFFFFF;
+    border-radius:0.5rem;
+    display: inline-block;
+    color:#878787;
+    padding:1rem 2rem;
+outline:1px solid #dbd4d4 ;
+margin-left: 2rem;
+}
+
+.hire{
+    background-color: #FFF8E5;
+    padding: 2rem 6rem 5rem;
+    margin-top: 5rem;
+    margin-bottom: 0.5rem;
+}
+
+.hire2{
+    font-size: 50px;
+    text-align: center;
+}
+
+.con1{
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    display:inline-block;
+    width:25%;
+    padding:2rem 2rem 2.5rem 2rem; 
+position: relative;
+    
+}
+
+.con2{
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    display:inline-block;
+    width:21%;
+    padding:1.5rem 3rem 1.1rem; 
+    position: absolute;
+    margin: 0 0 0 1rem;
+
+}
+.con3{
+ border:1px solid #FFFFFF;
+background-color: #FFFFFF;
+display:inline-block;
+width:21%;
+padding:2rem 2.8rem 3.5rem; 
+margin-left: 26rem;
+position: absolute;
+}
+.con4{
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    display:inline-block;
+    width:21%;
+    padding:3rem 5rem; 
+position: relative;
+margin: 0rem 0 0 9rem;
+z-index: 1;
+}
+
+.rope{
+object-fit: contain;
+margin:0 0rem 0 -41rem;
+position:absolute;
+}
+
+.con5{
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    display:inline-block;
+    width:23%;
+    padding:1.6rem 5rem 3rem; 
+position: relative;
+margin: 4rem 0 0 2rem;
+
+}
+
+.p2{
+    font-size: 20px;
+    text-align: center;
+}
+
+.people{
+    margin:-0.5rem 0 0 6rem ;
+}
+ .mech{
+    margin:0 0 0 6rem;
+ }
+ .hand{
+    margin:0 0 0 6rem;
+ } 
+ .write{
+    margin:0 0 0 5rem;
+ } 
+ .many{
+    margin: 0 0 0 5.5rem;
+}
+
+.e-b{
+    margin: 4rem 0 0 23rem;
+}
+
+.e-bn{
+    background-color: #ff0000;
+color:#FFFFFF;
+border:1px solid #ff0000;
+padding:0.7rem 3rem;
+border-bottom-right-radius: 1rem;
+font-size: 17px;
+}
+
+.e-btn{
+    background-color:#545557;
+    color:#FFFFFF;
+    border:1px solid #545557;
+    padding:0.7rem 3rem;
+    margin-left: 2rem;
+    border-bottom-right-radius: 1rem;
+    font-size: 17px;
+}
+
+footer{
+    background-color: black;
+    margin:0 -0.5rem -4rem;
+    padding-bottom: 2rem;
+   
+}
+.f-cont{
+    padding:3rem 6rem;
+}
+
+
+
+i{
+color:white;
+/* float: right; */
+font-size: 30px;
+}
+
+.left{
+    float:right;
+}
+.copyright{
+    color: #FFFFFF;
+    margin-left: 6rem;
+    font-size:20px;
+}
+
+.tal{
+    background-color: black;
+    color: #FFFFFF;
+    /* position: absolute; */
+    margin: -2.5rem 0 0 69rem;
+    font-size:20px;
+}
+
+
+
+
+
+

@@ -1,0 +1,372 @@
+body{
+    background-color: #FFFDF5;
+}
+
+.nav{
+    background-color: #FFFDF5;
+    position:sticky;
+    margin-bottom: 9rem;
+}
+
+ul{
+    list-style-type: none;
+    float: right;
+}
+
+li{
+    display:inline;
+    margin-right: 3.5rem;
+}
+a{
+    text-decoration: none;
+}
+
+.s-end{
+/* margin-left: 30rem; */
+text-align: center;
+color:red;
+font-size: 19px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-bottom: -2rem;
+}
+
+
+.gain{
+    /* margin-left: 2rem; */
+    font-size:53px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.lady{
+    position: absolute;
+    object-fit: contain;
+    width: 26%;
+    margin: -9.5rem 0 0 5rem;
+    border-radius:11rem;
+    background-color: #FFFDF5;
+}
+
+.male{
+    position: absolute;
+    object-fit: contain;
+    width: 24%;
+    margin: -12rem 0 0 60rem;
+    border-radius:4.5rem;
+    background-color: #FFFDF5;
+}
+
+.line{
+    position: absolute;
+    object-fit: contain;
+    width: 12%;
+    margin: -2.2rem 0 0 44rem;
+    background-color: #FFFDF5;
+}
+
+.basic{
+    text-align: center;
+    color:#5E5E5F;
+    font-size:20px ;
+    font-family:Arial;
+    margin-bottom: 2.6rem;
+}
+
+.enroll{
+    margin: 0 0 0 36.5rem;
+    background-color: #E7332B;
+    color:#ffffff;
+    font-size:20px;
+    padding:0.5rem 2rem;
+    border:1px solid #E7332B;
+    border-radius:5rem;
+}
+
+.wire{
+    position: absolute;
+    object-fit: contain;
+    width: 6%;
+    margin: 2.9rem 0rem 0 -2.5rem;
+    background-color: #FFFDF5;
+}
+
+.maleface{
+    position: absolute;
+    object-fit: contain;
+    width: 4.2%;
+    margin: 1rem 0rem 0 -22rem;
+    background-color: #FFFDF5;
+}
+
+.hr1{
+    /* position:absolute; */
+    margin: 2rem 4rem 4rem;
+    border-top:1px solid  rgb(219, 218, 218);
+}
+
+.help{
+    margin: -10rem 4rem 0 52rem;
+    font-size:25px;
+    text-align:right;
+}
+
+.ing{
+    margin-left: 4rem;
+    font-size: 25px;
+}
+
+.ingressive{
+    object-fit: contain;
+    width:15%;
+    margin: -10rem 0 0 32rem;
+}
+
+.a-hr{
+    margin-bottom: 2.5rem;
+}
+
+.hr2{
+    margin: 0rem 4rem 0rem;
+    border-top:1px solid  rgb(219, 218, 218);
+}
+
+.wire2{
+object-fit: contain;
+width: 8%;
+margin:2.5rem 0 0 22.7rem ;
+}
+
+.why{
+    color:#ff0000;
+    font-size:25px;
+    margin: 0rem 0 0 5rem;
+
+}
+.here{
+    font-size:35px;
+    margin: 0rem 0 0 5rem;
+
+}
+
+.star{
+width: 14.7%;
+margin: -35rem 0 0 54rem;
+}
+
+.cards{
+padding: 5rem 1rem;
+/* margin-bottom: 2rem; */
+}
+
+.l1-6{
+font-size: 40px;
+font-weight: bold;
+}
+
+.lv2{
+font-size: 29px;
+font-weight: bold;
+}
+
+.lv3{
+font-size: 20px;
+font-weight: bold;
+}
+
+.l1-1{
+    font-size: 40px;
+    font-weight: bold;
+    color:white 
+}
+.lv21{
+    font-size: 29px;
+    color:white 
+
+}
+
+.lv31{
+    font-size: 20px;  
+    color:white 
+
+}
+
+.c1{
+width:23%;
+background-color: #ff0000;
+border-radius: 1rem;
+padding:0.5rem 2rem;
+position: relative;
+margin:0 0 0 4rem;
+}
+.c2{
+width:23%;
+background-color: #FFFFFF;
+border-radius: 1rem;
+padding:0.5rem 2rem;
+position: relative;
+margin:-29.7rem 0 0 30rem;
+
+}
+.c3{
+    width:23%;
+    background-color: #FFFFFF;
+    border-radius: 1rem;
+padding:0.5rem 2rem;
+position: relative;
+margin:-29.7rem 0 0 55rem;
+
+}
+.c4{
+    width:23%;
+    background-color: #FFFFFF;
+    border-radius: 1rem;
+padding:0.5rem 2rem;
+position: relative;
+margin: 4rem 0 0 4rem;
+}
+.c5{
+    width:23%;
+    background-color: #FFFFFF;
+    border-radius: 1rem;
+padding:0.5rem 2rem 1rem;
+position: relative;
+margin:-29.7rem 0 0 30rem;
+
+}
+.c6{
+    width:23%;
+    background-color: #FFFFFF;
+    border-radius: 1rem;
+padding:0.5rem 2rem 1rem;
+position: relative;
+margin:-29.7rem 0 0 55rem;
+
+}
+
+.curve1, .curve2, .curve3, .curve4, .curve5, .curve6{
+    margin: -0.6rem 0 0 9.4rem;
+
+}
+
+.red-sec{
+background-color: #E7332B;
+margin:0 -0.5rem;
+}
+
+.sec-5w{
+    object-fit:contain;
+    width:7%;
+    color:#FFFFFF;
+    margin: 2rem 0 0 20rem;
+}
+
+.We{
+color: #FFFFFF;
+font-size: 20px;
+margin:-1rem 0 0 5rem;
+}
+
+.Hi-qu{
+    margin:0 0 0 5rem;
+    color: #FFFFFF;
+    font-size: 45px;
+}
+
+.tasks{
+    margin:3rem 0 0 5rem;
+    color: #FFFFFF;
+    font-size:20px;
+
+}
+.enr{
+    margin: 2rem 0 0 5rem;
+    border: 1px solid #FFFFFF;
+    border-radius: 5rem;
+    background-color: #FFFFFF;
+    color:#E7332B;
+    padding: 0.5rem 2rem;
+    font-size:20px ; 
+}
+
+.sec-5{
+    object-fit: contain;
+    width: 52%;
+    margin:-27rem 0 0 37rem;
+}
+
+.hand{
+    margin:-100rem 0 0 0rem;
+    position:relative;
+}
+
+.mentor{
+
+}
+
+.practice{
+}
+
+.games{
+
+}
+
+.bs-5{
+    border:2px solid #FFFFFF;
+    border-radius: 5rem;
+    background-color: #E7332B;
+    color: #FFFFFF;
+    font-size: 20px;
+        padding: 1rem 2rem 1rem 4rem;
+
+    margin: 2rem 0 0 -76rem;
+    position: absolute;
+}
+
+.bh{
+    border:2px solid #FFFFFF;
+    border-radius: 5rem;
+    background-color: #E7332B;
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 1rem 2rem 1rem 4rem;
+
+    margin: -9.2rem 0 0 15rem;
+    position: absolute;
+
+}
+
+.bp{
+    border:2px solid #FFFFFF;
+    border-radius: 5rem;
+    background-color: #E7332B;
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 1rem 2rem 1rem 4rem;
+    margin: -3.3rem 0 0 -3rem;
+    position: absolute;
+
+}
+
+.bfg{
+    border:2px solid #FFFFFF;
+    border-radius: 5rem;
+    background-color: #E7332B;
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 1rem 2rem 1rem 4rem;
+
+    margin: -3.3rem 0 0 6.5rem;
+    position: absolute;
+
+}
+
+
+
+
+
+
+
+
+
+
+
